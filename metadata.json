@@ -1,0 +1,7 @@
+{
+  "name": "FocusFlow - Real-time Study Platform",
+  "description": "A productivity app inspired by Yeolpumta with subject-wise timers, real-time group study rooms, global leaderboards, and AI-powered focus insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
